@@ -1,0 +1,340 @@
+Month,State,Product Category,Units Sold,Revenue (USD),Cost (USD),Profit (USD)
+1-Jan-2023,California,T-shirts,70,1050,630,420
+1-Jan-2023,California,Hoodies,130,3250,2112.5,1137.5
+1-Jan-2023,Texas,T-shirts,65,975,585,390
+1-Jan-2023,Texas,Hoodies,120,3000,1950,1050
+1-Jan-2023,New York,T-shirts,60,900,540,360
+1-Jan-2023,New York,Hoodies,140,3500,2275,1225
+1-Jan-2023,Florida,T-shirts,80,1200,720,480
+1-Jan-2023,Florida,Hoodies,100,2500,1625,875
+1-Jan-2023,Illinois,T-shirts,55,825,495,330
+1-Jan-2023,Illinois,Hoodies,110,2750,1787.5,962.5
+1-Jan-2023,Washington,T-shirts,50,750,450,300
+1-Jan-2023,Washington,Hoodies,125,3125,2031.25,1093.75
+1-Jan-2023,Colorado,T-shirts,55,825,495,330
+1-Jan-2023,Colorado,Hoodies,115,2875,1868.75,1006.25
+1-Feb-2023,California,T-shirts,74,1110,666,444
+1-Feb-2023,California,Hoodies,124,3100,2015,1085
+1-Feb-2023,Texas,T-shirts,68,1020,612,408
+1-Feb-2023,Texas,Hoodies,114,2850,1852.5,997.5
+1-Feb-2023,New York,T-shirts,63,945,567,378
+1-Feb-2023,New York,Hoodies,133,3325,2161.25,1163.75
+1-Feb-2023,Florida,T-shirts,84,1260,756,504
+1-Feb-2023,Florida,Hoodies,95,2375,1543.75,831.25
+1-Feb-2023,Illinois,T-shirts,58,870,522,348
+1-Feb-2023,Illinois,Hoodies,105,2625,1706.25,918.75
+1-Feb-2023,Washington,T-shirts,53,795,477,318
+1-Feb-2023,Washington,Hoodies,119,2975,1933.75,1041.25
+1-Feb-2023,Colorado,T-shirts,58,870,522,348
+1-Feb-2023,Colorado,Hoodies,109,2725,1771.25,953.75
+1-Mar-2023,California,T-shirts,81,1215,729,486
+1-Mar-2023,California,Hoodies,117,2925,1901.25,1023.75
+1-Mar-2023,Texas,T-shirts,75,1125,675,450
+1-Mar-2023,Texas,Hoodies,108,2700,1755,945
+1-Mar-2023,New York,T-shirts,69,1035,621,414
+1-Mar-2023,New York,Hoodies,126,3150,2047.5,1102.5
+1-Mar-2023,Florida,T-shirts,92,1380,828,552
+1-Mar-2023,Florida,Hoodies,90,2250,1462.5,787.5
+1-Mar-2023,Illinois,T-shirts,63,945,567,378
+1-Mar-2023,Illinois,Hoodies,99,2475,1606.25,868.75
+1-Mar-2023,Washington,T-shirts,58,870,522,348
+1-Mar-2023,Washington,Hoodies,113,2825,1836.25,988.75
+1-Mar-2023,Colorado,T-shirts,63,945,567,378
+1-Mar-2023,Colorado,Hoodies,104,2600,1690,910
+1-Apr-2023,California,T-shirts,88,1320,792,528
+1-Apr-2023,California,Hoodies,104,2600,1690,910
+1-Apr-2023,Texas,T-shirts,81,1215,729,486
+1-Apr-2023,Texas,Hoodies,96,2400,1560,840
+1-Apr-2023,New York,T-shirts,75,1125,675,450
+1-Apr-2023,New York,Hoodies,87,2175,1413.75,761.25
+1-Apr-2023,Florida,T-shirts,100,1500,900,600
+1-Apr-2023,Florida,Hoodies,80,2000,1300,700
+1-Apr-2023,Illinois,T-shirts,69,1035,621,414
+1-Apr-2023,Illinois,Hoodies,88,2200,1430,770
+1-Apr-2023,Washington,T-shirts,63,945,567,378
+1-Apr-2023,Washington,Hoodies,100,2500,1625,875
+1-Apr-2023,Colorado,T-shirts,69,1035,621,414
+1-Apr-2023,Colorado,Hoodies,92,2300,1495,805
+1-May-2023,California,T-shirts,95,1425,855,570
+1-May-2023,California,Hoodies,91,2275,1478.75,796.25
+1-May-2023,Texas,T-shirts,88,1320,792,528
+1-May-2023,Texas,Hoodies,84,2100,1365,735
+1-May-2023,New York,T-shirts,81,1215,729,486
+1-May-2023,New York,Hoodies,77,1925,1251.25,673.75
+1-May-2023,Florida,T-shirts,108,1620,972,648
+1-May-2023,Florida,Hoodies,70,1750,1137.5,612.5
+1-May-2023,Illinois,T-shirts,74,1110,666,444
+1-May-2023,Illinois,Hoodies,77,1925,1251.25,673.75
+1-May-2023,Washington,T-shirts,68,1020,612,408
+1-May-2023,Washington,Hoodies,88,2200,1430,770
+1-May-2023,Colorado,T-shirts,74,1110,666,444
+1-May-2023,Colorado,Hoodies,81,2025,1316.25,708.75
+1-Jun-2023,California,T-shirts,105,1575,945,630
+1-Jun-2023,California,Hoodies,78,1950,1267.5,682.5
+1-Jun-2023,Texas,T-shirts,98,1470,882,588
+1-Jun-2023,Texas,Hoodies,72,1800,1170,630
+1-Jun-2023,New York,T-shirts,90,1350,810,540
+1-Jun-2023,New York,Hoodies,84,2100,1365,735
+1-Jun-2023,Florida,T-shirts,120,1800,1080,720
+1-Jun-2023,Florida,Hoodies,60,1500,975,525
+1-Jun-2023,Illinois,T-shirts,83,1245,747,498
+1-Jun-2023,Illinois,Hoodies,66,1650,1072.5,577.5
+1-Jun-2023,Washington,T-shirts,75,1125,675,450
+1-Jun-2023,Washington,Hoodies,75,1875,1218.75,656.25
+1-Jun-2023,Colorado,T-shirts,83,1245,747,498
+1-Jun-2023,Colorado,Hoodies,69,1725,1121.25,603.75
+1-Jul-2023,California,T-shirts,120,1800,1080,720
+1-Jul-2023,California,Hoodies,68,1700,1105,595
+1-Jul-2023,Texas,T-shirts,113,1695,1017,678
+1-Jul-2023,Texas,Hoodies,62,1550,1007.5,542.5
+1-Jul-2023,New York,T-shirts,105,1575,945,630
+1-Jul-2023,New York,Hoodies,74,1850,1202.5,647.5
+1-Jul-2023,Florida,T-shirts,135,2025,1215,810
+1-Jul-2023,Florida,Hoodies,50,1250,812.5,437.5
+1-Jul-2023,Illinois,T-shirts,98,1470,882,588
+1-Jul-2023,Illinois,Hoodies,56,1400,910,490
+1-Jul-2023,Washington,T-shirts,90,1350,810,540
+1-Jul-2023,Washington,Hoodies,65,1625,1056.25,568.75
+1-Jul-2023,Colorado,T-shirts,98,1470,882,588
+1-Jul-2023,Colorado,Hoodies,59,1475,958.75,516.25
+1-Aug-2023,California,T-shirts,125,1875,1125,750
+1-Aug-2023,California,Hoodies,63,1575,1023.75,551.25
+1-Aug-2023,Texas,T-shirts,118,1770,1062,708
+1-Aug-2023,Texas,Hoodies,57,1425,926.25,498.75
+1-Aug-2023,New York,T-shirts,110,1650,990,660
+1-Aug-2023,New York,Hoodies,69,1725,1121.25,603.75
+1-Aug-2023,Florida,T-shirts,140,2100,1260,840
+1-Aug-2023,Florida,Hoodies,45,1125,731.25,393.75
+1-Aug-2023,Illinois,T-shirts,103,1545,927,618
+1-Aug-2023,Illinois,Hoodies,51,1275,828.75,446.25
+1-Aug-2023,Washington,T-shirts,95,1425,855,570
+1-Aug-2023,Washington,Hoodies,60,1500,975,525
+1-Aug-2023,Colorado,T-shirts,103,1545,927,618
+1-Aug-2023,Colorado,Hoodies,54,1350,877.5,472.5
+1-Sep-2023,California,T-shirts,115,1725,1035,690
+1-Sep-2023,California,Hoodies,78,1950,1267.5,682.5
+1-Sep-2023,Texas,T-shirts,108,1620,972,648
+1-Sep-2023,Texas,Hoodies,72,1800,1170,630
+1-Sep-2023,New York,T-shirts,100,1500,900,600
+1-Sep-2023,New York,Hoodies,84,2100,1365,735
+1-Sep-2023,Florida,T-shirts,130,1950,1170,780
+1-Sep-2023,Florida,Hoodies,60,1500,975,525
+1-Sep-2023,Illinois,T-shirts,93,1395,837,558
+1-Sep-2023,Illinois,Hoodies,66,1650,1072.5,577.5
+1-Sep-2023,Washington,T-shirts,85,1275,765,510
+1-Sep-2023,Washington,Hoodies,75,1875,1218.75,656.25
+1-Sep-2023,Colorado,T-shirts,93,1395,837,558
+1-Sep-2023,Colorado,Hoodies,69,1725,1121.25,603.75
+1-Oct-2023,California,T-shirts,110,1650,990,660
+1-Oct-2023,California,Hoodies,88,2200,1430,770
+1-Oct-2023,Texas,T-shirts,103,1545,927,618
+1-Oct-2023,Texas,Hoodies,82,2050,1332.5,717.5
+1-Oct-2023,New York,T-shirts,95,1425,855,570
+1-Oct-2023,New York,Hoodies,94,2350,1527.5,822.5
+1-Oct-2023,Florida,T-shirts,125,1875,1125,750
+1-Oct-2023,Florida,Hoodies,70,1750,1137.5,612.5
+1-Oct-2023,Illinois,T-shirts,88,1320,792,528
+1-Oct-2023,Illinois,Hoodies,76,1900,1235,665
+1-Oct-2023,Washington,T-shirts,80,1200,720,480
+1-Oct-2023,Washington,Hoodies,85,2125,1381.25,743.75
+1-Oct-2023,Colorado,T-shirts,88,1320,792,528
+1-Oct-2023,Colorado,Hoodies,79,1975,1283.75,691.25
+1-Nov-2023,California,T-shirts,105,1575,945,630
+1-Nov-2023,California,Hoodies,98,2450,1592.5,857.5
+1-Nov-2023,Texas,T-shirts,98,1470,882,588
+1-Nov-2023,Texas,Hoodies,92,2300,1495,805
+1-Nov-2023,New York,T-shirts,90,1350,810,540
+1-Nov-2023,New York,Hoodies,104,2600,1690,910
+1-Nov-2023,Florida,T-shirts,120,1800,1080,720
+1-Nov-2023,Florida,Hoodies,80,2000,1300,700
+1-Nov-2023,Illinois,T-shirts,83,1245,747,498
+1-Nov-2023,Illinois,Hoodies,86,2150,1397.5,752.5
+1-Nov-2023,Washington,T-shirts,75,1125,675,450
+1-Nov-2023,Washington,Hoodies,95,2375,1543.75,831.25
+1-Nov-2023,Colorado,T-shirts,83,1245,747,498
+1-Nov-2023,Colorado,Hoodies,89,2225,1446.25,778.75
+1-Dec-2023,California,T-shirts,100,1500,900,600
+1-Dec-2023,California,Hoodies,108,2700,1755,945
+1-Dec-2023,Texas,T-shirts,93,1395,837,558
+1-Dec-2023,Texas,Hoodies,102,2550,1657.5,892.5
+1-Dec-2023,New York,T-shirts,85,1275,765,510
+1-Dec-2023,New York,Hoodies,114,2850,1852.5,997.5
+1-Dec-2023,Florida,T-shirts,115,1725,1035,690
+1-Dec-2023,Florida,Hoodies,90,2250,1462.5,787.5
+1-Dec-2023,Illinois,T-shirts,78,1170,702,468
+1-Dec-2023,Illinois,Hoodies,96,2400,1560,840
+1-Dec-2023,Washington,T-shirts,70,1050,630,420
+1-Dec-2023,Washington,Hoodies,105,2625,1706.25,918.75
+1-Dec-2023,Colorado,T-shirts,78,1170,702,468
+1-Dec-2023,Colorado,Hoodies,99,2475,1606.25,868.75
+1-Jan-2024,California,T-shirts,105,1575,945,630
+1-Jan-2024,California,Hoodies,112,2800,1820,980
+1-Jan-2024,Texas,T-shirts,98,1470,882,588
+1-Jan-2024,Texas,Hoodies,106,2650,1722.5,927.5
+1-Jan-2024,New York,T-shirts,90,1350,810,540
+1-Jan-2024,New York,Hoodies,118,2950,1917.5,1032.5
+1-Jan-2024,Florida,T-shirts,100,1500,900,600
+1-Jan-2024,Florida,Hoodies,95,2375,1543.75,831.25
+1-Jan-2024,Illinois,T-shirts,85,1275,765,510
+1-Jan-2024,Illinois,Hoodies,100,2500,1625,875
+1-Jan-2024,Washington,T-shirts,75,1125,675,450
+1-Jan-2024,Washington,Hoodies,110,2750,1787.5,962.5
+1-Jan-2024,Colorado,T-shirts,80,1200,720,480
+1-Jan-2024,Colorado,Hoodies,104,2600,1690,910
+1-Feb-2024,California,T-shirts,110,1650,990,660
+1-Feb-2024,California,Hoodies,115,2875,1868.75,1006.25
+1-Feb-2024,Texas,T-shirts,103,1545,927,618
+1-Feb-2024,Texas,Hoodies,109,2725,1771.25,953.75
+1-Feb-2024,New York,T-shirts,95,1425,855,570
+1-Feb-2024,New York,Hoodies,122,3050,1982.5,1067.5
+1-Feb-2024,Florida,T-shirts,105,1575,945,630
+1-Feb-2024,Florida,Hoodies,99,2475,1606.25,868.75
+1-Feb-2024,Illinois,T-shirts,90,1350,810,540
+1-Feb-2024,Illinois,Hoodies,105,2625,1706.25,918.75
+1-Feb-2024,Washington,T-shirts,80,1200,720,480
+1-Feb-2024,Washington,Hoodies,114,2850,1852.5,997.5
+1-Feb-2024,Colorado,T-shirts,85,1275,765,510
+1-Feb-2024,Colorado,Hoodies,108,2700,1755,945
+1-Mar-2024,California,T-shirts,115,1725,1035,690
+1-Mar-2024,California,Hoodies,110,2750,1787.5,962.5
+1-Mar-2024,Texas,T-shirts,108,1620,972,648
+1-Mar-2024,Texas,Hoodies,104,2600,1690,910
+1-Mar-2024,New York,T-shirts,100,1500,900,600
+1-Mar-2024,New York,Hoodies,116,2900,1885,1015
+1-Mar-2024,Florida,T-shirts,112,1680,1008,672
+1-Mar-2024,Florida,Hoodies,95,2375,1543.75,831.25
+1-Mar-2024,Illinois,T-shirts,95,1425,855,570
+1-Mar-2024,Illinois,Hoodies,100,2500,1625,875
+1-Mar-2024,Washington,T-shirts,85,1275,765,510
+1-Mar-2024,Washington,Hoodies,108,2700,1755,945
+1-Mar-2024,Colorado,T-shirts,90,1350,810,540
+1-Mar-2024,Colorado,Hoodies,102,2550,1657.5,892.5
+1-Apr-2024,California,T-shirts,120,1800,1080,720
+1-Apr-2024,California,Hoodies,105,2625,1706.25,918.75
+1-Apr-2024,Texas,T-shirts,113,1695,1017,678
+1-Apr-2024,Texas,Hoodies,99,2475,1606.25,868.75
+1-Apr-2024,New York,T-shirts,105,1575,945,630
+1-Apr-2024,New York,Hoodies,110,2750,1787.5,962.5
+1-Apr-2024,Florida,T-shirts,118,1770,1062,708
+1-Apr-2024,Florida,Hoodies,90,2250,1462.5,787.5
+1-Apr-2024,Illinois,T-shirts,100,1500,900,600
+1-Apr-2024,Illinois,Hoodies,95,2375,1543.75,831.25
+1-Apr-2024,Washington,T-shirts,90,1350,810,540
+1-Apr-2024,Washington,Hoodies,105,2625,1706.25,918.75
+1-Apr-2024,Colorado,T-shirts,95,1425,855,570
+1-Apr-2024,Colorado,Hoodies,99,2475,1606.25,868.75
+1-May-2024,California,T-shirts,130,1950,1170,780
+1-May-2024,California,Hoodies,95,2375,1543.75,831.25
+1-May-2024,Texas,T-shirts,123,1845,1107,738
+1-May-2024,Texas,Hoodies,89,2225,1446.25,778.75
+1-May-2024,New York,T-shirts,115,1725,1035,690
+1-May-2024,New York,Hoodies,100,2500,1625,875
+1-May-2024,Florida,T-shirts,130,1950,1170,780
+1-May-2024,Florida,Hoodies,80,2000,1300,700
+1-May-2024,Illinois,T-shirts,110,1650,990,660
+1-May-2024,Illinois,Hoodies,85,2125,1381.25,743.75
+1-May-2024,Washington,T-shirts,100,1500,900,600
+1-May-2024,Washington,Hoodies,90,2250,1462.5,787.5
+1-May-2024,Colorado,T-shirts,105,1575,945,630
+1-May-2024,Colorado,Hoodies,84,2100,1365,735
+1-Jun-2024,California,T-shirts,140,2100,1260,840
+1-Jun-2024,California,Hoodies,88,2200,1430,770
+1-Jun-2024,Texas,T-shirts,133,1995,1197,798
+1-Jun-2024,Texas,Hoodies,80,2000,1300,700
+1-Jun-2024,New York,T-shirts,125,1875,1125,750
+1-Jun-2024,New York,Hoodies,90,2250,1462.5,787.5
+1-Jun-2024,Florida,T-shirts,140,2100,1260,840
+1-Jun-2024,Florida,Hoodies,70,1750,1137.5,612.5
+1-Jun-2024,Illinois,T-shirts,120,1800,1080,720
+1-Jun-2024,Illinois,Hoodies,75,1875,1218.75,656.25
+1-Jun-2024,Washington,T-shirts,110,1650,990,660
+1-Jun-2024,Washington,Hoodies,80,2000,1300,700
+1-Jun-2024,Colorado,T-shirts,115,1725,1035,690
+1-Jun-2024,Colorado,Hoodies,74,1850,1202.5,647.5
+1-Jul-2024,California,T-shirts,150,2250,1350,900
+1-Jul-2024,California,Hoodies,80,2000,1300,700
+1-Jul-2024,Texas,T-shirts,143,2145,1287,858
+1-Jul-2024,Texas,Hoodies,70,1750,1137.5,612.5
+1-Jul-2024,New York,T-shirts,135,2025,1215,810
+1-Jul-2024,New York,Hoodies,84,2100,1365,735
+1-Jul-2024,Florida,T-shirts,155,2325,1395,930
+1-Jul-2024,Florida,Hoodies,65,1625,1056.25,568.75
+1-Jul-2024,Illinois,T-shirts,130,1950,1170,780
+1-Jul-2024,Illinois,Hoodies,77,1925,1251.25,673.75
+1-Jul-2024,Washington,T-shirts,120,1800,1080,720
+1-Jul-2024,Washington,Hoodies,85,2125,1381.25,743.75
+1-Jul-2024,Colorado,T-shirts,125,1875,1125,750
+1-Jul-2024,Colorado,Hoodies,78,1950,1267.5,682.5
+1-Aug-2024,California,T-shirts,155,2325,1395,930
+1-Aug-2024,California,Hoodies,75,1875,1218.75,656.25
+1-Aug-2024,Texas,T-shirts,148,2220,1332,888
+1-Aug-2024,Texas,Hoodies,65,1625,1056.25,568.75
+1-Aug-2024,New York,T-shirts,140,2100,1260,840
+1-Aug-2024,New York,Hoodies,79,1975,1283.75,691.25
+1-Aug-2024,Florida,T-shirts,160,2400,1440,960
+1-Aug-2024,Florida,Hoodies,60,1500,975,525
+1-Aug-2024,Illinois,T-shirts,135,2025,1215,810
+1-Aug-2024,Illinois,Hoodies,72,1800,1170,630
+1-Aug-2024,Washington,T-shirts,125,1875,1125,750
+1-Aug-2024,Washington,Hoodies,80,2000,1300,700
+1-Aug-2024,Colorado,T-shirts,130,1950,1170,780
+1-Aug-2024,Colorado,Hoodies,73,1825,1186.25,638.75
+1-Sep-2024,California,T-shirts,140,2100,1260,840
+1-Sep-2024,California,Hoodies,88,2200,1430,770
+1-Sep-2024,Texas,T-shirts,133,1995,1197,798
+1-Sep-2024,Texas,Hoodies,78,1950,1267.5,682.5
+1-Sep-2024,New York,T-shirts,125,1875,1125,750
+1-Sep-2024,New York,Hoodies,90,2250,1462.5,787.5
+1-Sep-2024,Florida,T-shirts,145,2175,1305,870
+1-Sep-2024,Florida,Hoodies,70,1750,1137.5,612.5
+1-Sep-2024,Illinois,T-shirts,125,1875,1125,750
+1-Sep-2024,Illinois,Hoodies,78,1950,1267.5,682.5
+1-Sep-2024,Washington,T-shirts,115,1725,1035,690
+1-Sep-2024,Washington,Hoodies,85,2125,1381.25,743.75
+1-Sep-2024,Colorado,T-shirts,120,1800,1080,720
+1-Sep-2024,Colorado,Hoodies,80,2000,1300,700
+1-Oct-2024,California,T-shirts,135,2025,1215,810
+1-Oct-2024,California,Hoodies,98,2450,1592.5,857.5
+1-Oct-2024,Texas,T-shirts,128,1920,1152,768
+1-Oct-2024,Texas,Hoodies,92,2300,1495,805
+1-Oct-2024,New York,T-shirts,120,1800,1080,720
+1-Oct-2024,New York,Hoodies,102,2550,1657.5,892.5
+1-Oct-2024,Florida,T-shirts,130,1950,1170,780
+1-Oct-2024,Florida,Hoodies,85,2125,1381.25,743.75
+1-Oct-2024,Illinois,T-shirts,115,1725,1035,690
+1-Oct-2024,Illinois,Hoodies,80,2000,1300,700
+1-Oct-2024,Washington,T-shirts,105,1575,945,630
+1-Oct-2024,Washington,Hoodies,90,2250,1462.5,787.5
+1-Oct-2024,Colorado,T-shirts,110,1650,990,660
+1-Oct-2024,Colorado,Hoodies,85,2125,1381.25,743.75
+1-Nov-2024,California,T-shirts,130,1950,1170,780
+1-Nov-2024,California,Hoodies,108,2700,1755,945
+1-Nov-2024,Texas,T-shirts,123,1845,1107,738
+1-Nov-2024,Texas,Hoodies,102,2550,1657.5,892.5
+1-Nov-2024,New York,T-shirts,115,1725,1035,690
+1-Nov-2024,New York,Hoodies,112,2800,1820,980
+1-Nov-2024,Florida,T-shirts,125,1875,1125,750
+1-Nov-2024,Florida,Hoodies,95,2375,1543.75,831.25
+1-Nov-2024,Illinois,T-shirts,110,1650,990,660
+1-Nov-2024,Illinois,Hoodies,90,2250,1462.5,787.5
+1-Nov-2024,Washington,T-shirts,100,1500,900,600
+1-Nov-2024,Washington,Hoodies,100,2500,1625,875
+1-Nov-2024,Colorado,T-shirts,105,1575,945,630
+1-Nov-2024,Colorado,Hoodies,90,2250,1462.5,787.5
+1-Dec-2024,California,T-shirts,125,1875,1125,750
+1-Dec-2024,California,Hoodies,116,2900,1885,1015
+1-Dec-2024,Texas,T-shirts,118,1770,1062,708
+1-Dec-2024,Texas,Hoodies,110,2750,1787.5,962.5
+1-Dec-2024,New York,T-shirts,110,1650,990,660
+1-Dec-2024,New York,Hoodies,120,3000,1950,1050
+1-Dec-2024,Florida,T-shirts,120,1800,1080,720
+1-Dec-2024,Florida,Hoodies,100,2500,1625,875
+1-Dec-2024,Illinois,T-shirts,105,1575,945,630
+1-Dec-2024,Illinois,Hoodies,96,2400,1560,840
+1-Dec-2024,Washington,T-shirts,95,1425,855,570
+1-Dec-2024,Washington,Hoodies,105,2625,1706.25,918.75
+1-Dec-2024,Colorado,T-shirts,100,1500,900,600
+1-Dec-2024,Colorado,Hoodies,94,2350,1527.5,822.5
+,,,,,,
+,,,,,,
+,,,,,,
