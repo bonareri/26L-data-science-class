@@ -1,0 +1,2 @@
+<p id="block-6649a798-78fc-481a-bedc-c62080b45762">This week you’ll be working on a Numpy Project to familiarize you with the Numerical python (Numpy) library. This is the first in a series of 5 Numpy exercises/projects including the weekly project. The exercises increase in complexity as you progress.</p>
+<p id="block-6649a798-78fc-481a-bedc-c62080b45762">You can find the project description and exercise on Github Classroom through this <a href="https://classroom.github.com/a/mW6-olFH">link</a>.</p>
